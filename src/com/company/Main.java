@@ -1,6 +1,6 @@
 package com.company;
 
-import com.company.exeption.EmptySingleLinkedListException;
+import com.company.exсeption.EmptySingleLinkedListException;
 import com.company.service.SingleList;
 
 public class Main {

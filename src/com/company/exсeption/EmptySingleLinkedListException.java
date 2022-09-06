@@ -1,4 +1,4 @@
-package com.company.exeption;
+package com.company.exсeption;
 
 public class EmptySingleLinkedListException extends Exception {
 

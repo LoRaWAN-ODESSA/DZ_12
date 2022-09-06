@@ -1,6 +1,6 @@
 package com.company.service;
 
-import com.company.exeption.EmptySingleLinkedListException;
+import com.company.exсeption.EmptySingleLinkedListException;
 import com.company.model.Node;
 
 import java.util.Iterator;
